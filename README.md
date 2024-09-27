@@ -1,7 +1,6 @@
 Hey there ,
 
-=> I am a third-year IT engineering student with a solid foundation in software development, problem-solving, and emerging technologies.
-=> I am constantly seeking opportunities to apply and expand my technical skills while contributing to innovative projects.
+=> I am a third-year IT engineering student with a solid foundation in software development, problem-solving, and emerging technologies. I am constantly seeking opportunities to apply and expand my technical skills while contributing to innovative projects.
 
 
 <!---
